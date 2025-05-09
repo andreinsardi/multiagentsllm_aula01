@@ -1,5 +1,3 @@
-# Explica o agente responsável por gerar a resposta via pipeline de QA
-
 # Importa o pipeline de QA da Hugging Face
 from transformers import pipeline
 from agenteA import agenteA_buscar

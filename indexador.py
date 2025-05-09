@@ -1,5 +1,3 @@
-# Explica o script que indexa blocos do texto Dom Casmurro via embeddings
-
 import re
 # Biblioteca pandas para manipulação de dados tabulares
 import pandas as pd

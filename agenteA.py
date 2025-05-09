@@ -1,5 +1,3 @@
-# Explica o agente responsável por recuperar contexto baseado em embeddings
-
 # Importa modelo de embeddings semânticos (SentenceTransformer)
 from sentence_transformers import SentenceTransformer
 # Biblioteca de indexação vetorial eficiente (HNSW)

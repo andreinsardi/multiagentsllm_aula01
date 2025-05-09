@@ -1,5 +1,3 @@
-# Explica o agente responsável por avaliar a resposta gerada
-
 # Define função do agente com seu comportamento principal
 def agenteC_avaliar(resposta: str) -> str:
     if len(resposta.split()) < 4:
